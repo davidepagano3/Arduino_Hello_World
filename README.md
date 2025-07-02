@@ -1,2 +1,5 @@
 # Arduino_Hello_World
-My Arduino experiences
+Basic collection of Arduino simple sketch files
+
+### Me
+Student of the Milano Politecnico School of Design, with passions for art and design.
